@@ -8,7 +8,7 @@ export const Todo = ({ text, counter, id }) => {
   const dispatch = useDispatch();
   const handleDelete = () => {
     dispatch(delTodo(id));
-  };
+  }; //
   return (
     <>
       <TodoWrapper>
