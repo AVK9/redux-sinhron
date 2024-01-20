@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-sinhron/static/css/main.c3d5249d.css",
+    "main.js": "/redux-sinhron/static/js/main.09f750de.js",
+    "index.html": "/redux-sinhron/index.html",
+    "main.c3d5249d.css.map": "/redux-sinhron/static/css/main.c3d5249d.css.map",
+    "main.09f750de.js.map": "/redux-sinhron/static/js/main.09f750de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.09f750de.js"
+  ]
+}
